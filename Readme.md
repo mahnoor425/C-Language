@@ -62,4 +62,4 @@ IDE stands for **Integrated Development Environment**. It is used to create edit
 
 ### Sequence of creating a program 
 
-Editing &rightarrow; Saving &rightarrow; Compiling &rightarrow; Linking &rightarrow; sExecuting.
+Editing &rightarrow; Saving &rightarrow; Compiling &rightarrow; Linking &rightarrow; Executing.
