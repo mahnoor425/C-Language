@@ -53,7 +53,7 @@ A program that converts the source code into object code.
 
 IDE stands for **Integrated Development Environment**. It is used to create edit and compile programs. It is used for a specific programming language.
 
-**For C++:**
+**For C/C++:**
 
 - Dev-C++
 - Code blocks
